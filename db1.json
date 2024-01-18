@@ -1,0 +1,19 @@
+{
+  "lists": [
+    {
+      "id": 2,
+      "checked": "false",
+      "item": "css"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "javascript"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "html"
+    }
+  ]
+}
